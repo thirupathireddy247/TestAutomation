@@ -14,5 +14,12 @@ public class SeleniumTest {
 	{
 		System.out.println("login");
 	}
+	@Test
+	public void closebrowser()
+	
+	{
+		System.out.println("close the window");
+	}
+
 
 }

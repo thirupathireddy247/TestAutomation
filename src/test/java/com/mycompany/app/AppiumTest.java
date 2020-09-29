@@ -10,6 +10,10 @@ public class AppiumTest {
 		System.out.println("jira1");
 		System.out.println("jira2");
 		System.out.println("Jira3");
+		System.out.println("jira4");
+		System.out.println("jira5");
+		System.out.println("Jira6");
+		
 		
 	}
 	@Test
