@@ -6,7 +6,11 @@ public class AppiumTest {
 	@Test
 	public void AppiumBrowserAutomation()
 	{
-		System.out.println("appium browser automation");
+		
+		System.out.println("jira1");
+		System.out.println("jira2");
+		System.out.println("Jira3");
+		
 	}
 	@Test
 	public void AppiumUiElement()
